@@ -1,0 +1,5 @@
+print('ola mundo')
+print('meu nome é evelyn')
+print('eu tenho 18 anos')
+print('eu gosto da hello kitty')
+print('e amo meu namorado')
